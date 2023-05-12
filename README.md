@@ -14,3 +14,5 @@ Repository pentru Programare Avansata
 10.04.2023 - urcat compulsory lab 6 + compulsory lab 7, imi cer scuze de intarziere.
 
 28.04.2023 - urcat compulsory lab 8, am o eroare "invalid column index" care nu inteleg exact de la e.
+
+12.05.2023 - urcat compulsory lab9 + compulsory lab10, imi cer scuze pt intarzierea la laboratorul 9.
