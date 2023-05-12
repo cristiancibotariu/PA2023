@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence>
+    <persistence-unit name="ExamplePU"
+                      transaction-type="RESOURCE_LOCAL">
+
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <exclude-unlisted-classes>false</exclude-unlisted-classes>
+        <properties>
+            <property name="javax.persistence.jdbc.driver"
+                      value="com.oracle.database.jdbc"/>
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:oracle:thin:@localhost:1521:xe"/>
+            <property name="javax.persistence.jdbc.user" value="progavas"/>
+            <property name="javax.persistence.jdbc.password"
+                      value="java"/>
+        </properties>
+    </persistence-unit>
+</persistence>
